@@ -10,7 +10,7 @@ Hi!
 - Engineering College Student
 - has a very complicated inner mind
 - builds a coding ed chatbot
-- not gonna reveil my college and department😛
+- not gonna reveal my college and department😛
 
 ## Interests
 - Language Learning(日本語, Español, etc)
